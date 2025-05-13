@@ -20,7 +20,7 @@
 ### About me:
 
 - 💻 &nbsp; Programming language and Framework: Langchain, React, NodeJs, ExpressJs, Typescript, Javascript, Laravel。
-- 🛠 &nbsp; Library: Redux Toolkit, Ant Design, ShadcnUI, TailwindCss, ReactFlow, GSap, ViTest。
+- 🛠 &nbsp; Library: Socket, Redux Toolkit, Ant Design, ShadcnUI, TailwindCss, ReactFlow, GSap, ViTest。
 - 🚀 &nbsp; I want to be a fullstack developer.
 - 👨🏻‍💻 &nbsp; My project is in [Github]([https://github.com/phongdk29101999?tab=repositories](https://github.com/vuongquangminh?tab=repositories)).
 - 💬 &nbsp; Ask about something [here](https://github.com/phongdk29101999/phongdk29101999/issues).
